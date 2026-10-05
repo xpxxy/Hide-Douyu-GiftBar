@@ -7,6 +7,7 @@
 // @match        https://douyu.com/*
 // @run-at       document-start
 // @grant        GM_addStyle
+// @license      MIT
 // ==/UserScript==
 
 (function () {
